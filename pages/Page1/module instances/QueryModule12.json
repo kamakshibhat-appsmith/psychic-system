@@ -7,19 +7,19 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "1"
+      "input1": "3"
     },
     "moduleInputs": {
-      "xxqhoqmegx": {
+      "pmbrbvfxcm": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "1",
-        "id": "xxqhoqmegx",
+        "defaultValue": "3",
+        "id": "pmbrbvfxcm",
         "label": "input1",
         "propertyName": "inputs.input1"
       }
     },
     "name": "QueryModule12",
     "pageId": "Page1",
-    "version": "0.0.8"
+    "version": "0.0.15"
   }
 }
