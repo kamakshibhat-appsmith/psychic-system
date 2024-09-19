@@ -6,8 +6,13 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "input1"
+      }
+    ],
     "inputs": {
-      "input1": "30"
+      "input1": "{{Input11.text}}"
     },
     "moduleInputs": {
       "pmbrbvfxcm": {
