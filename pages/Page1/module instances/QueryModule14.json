@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "66ebe00cf3beaa0b05dc4b85_2a9d4ac2-466c-4161-8fbe-46ee67bc3dd5",
+  "id": "Page1_QueryModule14",
+  "moduleUUID": "3fcc1349-751f-4ce1-b7e8-c6fe9cc9f3cc",
+  "packageUUID": "e74e55e4-57e6-4f43-bd54-8e449cc33125",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "input1"
+      }
+    ],
+    "inputs": {
+      "input1": "{{Input1234.text}}"
+    },
+    "moduleInputs": {
+      "pmbrbvfxcm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "pmbrbvfxcm",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule14",
+    "pageId": "Page1",
+    "version": "0.0.16"
+  }
+}
