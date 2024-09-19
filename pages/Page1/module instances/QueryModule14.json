@@ -12,7 +12,7 @@
       }
     ],
     "inputs": {
-      "input1": "12345"
+      "input1": "{{Input12345.text}}"
     },
     "moduleInputs": {
       "pmbrbvfxcm": {
